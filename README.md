@@ -1,7 +1,7 @@
 
 ![Passionate Web Developer | Building Beautiful, Functional, and Scalable Web Solutions.](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
 
-### Hi there 👋, I am Raihan Uddin Munna
+### Hi there , I am Raihan Uddin Munna
 #### Passionate Web Developer | Building Beautiful, Functional, and Scalable Web Solutions.
 
 

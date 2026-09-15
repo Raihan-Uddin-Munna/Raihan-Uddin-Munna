@@ -1,137 +1,99 @@
 <div align="center">
 
-# Raihan Uddin Munna
+# <span style="color:#58A6FF;">Raihan Uddin Munna</span>
 
-### Networking & Cybersecurity
+### <span style="color:#00D9FF;">Networking & Cybersecurity</span>
 
-**CCNA • MTCNA • Linux • Network Security**
-
-Building a strong foundation in networking, Linux, and cybersecurity through  
-hands-on labs, troubleshooting, packet analysis, and practical projects.
+<span style="color:#8B949E;">CCNA</span> • <span style="color:#00D9FF;">MTCNA</span> • <span style="color:#A371F7;">Linux</span> • <span style="color:#58A6FF;">Network Security</span>
 
 <br>
 
+<span style="color:#C9D1D9;">
+Building practical skills in networking, Linux, automation, and cybersecurity
+through hands-on labs, troubleshooting, packet analysis, and technical projects.
+</span>
+
+<br><br>
+
 <a href="https://github.com/Raihan-Uddin-Munna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/raihan-uddin-munna/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:raihanuddin1289@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./github-banner.png" width="100%" alt="Networking and Cybersecurity Banner">
 
 </div>
 
 ---
 
-## About Me
+## <span style="color:#58A6FF;">01 — About Me</span>
 
-I'm **Raihan Uddin Munna**, focused on building a professional career in
-**Networking and Cybersecurity**.
+I'm **Raihan Uddin Munna**, focused on building a career in **Networking and
+Cybersecurity**.
 
-I have completed **CCNA and MTCNA training** and I'm currently expanding my
-practical knowledge in **Linux, network security, scripting, and security
-operations**.
+I've completed **CCNA and MTCNA training** and I'm currently developing my
+practical skills in **Linux, network security, scripting, packet analysis,
+and troubleshooting**.
 
-My learning is centered around hands-on work — building network topologies,
-configuring Cisco and MikroTik devices, analyzing traffic with Wireshark,
-working with Linux, troubleshooting network problems, and documenting what I
-learn along the way.
+I learn by building labs, testing configurations, solving problems, and
+documenting the process. My goal is to develop a strong technical foundation
+that connects **network infrastructure, Linux systems, automation, and
+cybersecurity**.
 
-My long-term goal is to develop strong skills across **network infrastructure,
-Linux systems, network security, and cybersecurity**.
-
----
-
-## Technical Skills
-
-### Networking
-
-- TCP/IP
-- OSI Model
-- IPv4 & IPv6
-- Subnetting
-- CIDR
-- FLSM & VLSM
-- VLAN & Trunking
-- Inter-VLAN Routing
-- STP
-- EtherChannel
-- Static Routing
-- OSPF
-- DHCP
-- DNS
-- NAT
-- ACL
-- ARP
-- ICMP
-- TCP & UDP
-- Network Troubleshooting
-
-### Cisco
-
-- Cisco IOS CLI
-- Interface Configuration
-- VLAN Configuration
-- Trunk Configuration
-- Inter-VLAN Routing
-- Static Routing
-- OSPF
-- DHCP
-- NAT
-- ACL
-- SSH
-- Troubleshooting
-- Cisco Packet Tracer
-
-### MikroTik
-
-- RouterOS
-- IP Addressing
-- DHCP
-- Routing
-- NAT
-- Firewall
-- Traffic Control
-- Router Configuration
-- MikroTik CHR
-
-### Linux
-
-- Linux File System
-- Files & Directories
-- Users & Groups
-- Permissions
-- Processes
-- Package Management
-- Networking Commands
-- Text Processing
-- Shell Environment
-- System Administration
-- Linux Security Fundamentals
-
-### Security
-
-- Network Security Fundamentals
-- Firewall Concepts
-- Access Control
-- Packet Analysis
-- Linux Security
-- Network Monitoring
-- Security Fundamentals
-- SOC Fundamentals
-
-### Programming & Scripting
-
-- Python — Learning
-- Bash — Learning
+> <span style="color:#8B949E;">Understand it. Build it. Break it. Fix it. Document it.</span>
 
 ---
 
-## Tools & Technologies
+## <span style="color:#00D9FF;">02 — Technical Stack</span>
+
+### 🌐 Networking
+
+`TCP/IP` `IPv4` `IPv6` `Subnetting` `CIDR` `FLSM` `VLSM`  
+`VLAN` `Trunking` `STP` `EtherChannel` `OSPF` `Static Routing`  
+`DHCP` `DNS` `NAT` `ACL` `ARP` `ICMP` `TCP` `UDP` `Troubleshooting`
+
+### 🔷 Cisco
+
+`Cisco IOS` `CLI` `VLAN` `Inter-VLAN Routing` `OSPF`  
+`DHCP` `NAT` `ACL` `SSH` `Packet Tracer`
+
+### 🟦 MikroTik
+
+`RouterOS` `IP Addressing` `DHCP` `Routing` `NAT`  
+`Firewall` `Traffic Control` `MikroTik CHR`
+
+### 🐧 Linux
+
+`Linux CLI` `File System` `Users & Groups` `Permissions`  
+`Processes` `Package Management` `Networking` `Shell`  
+`System Administration` `Linux Security`
+
+### 🛡️ Security
+
+`Network Security` `Firewall` `Access Control`  
+`Packet Analysis` `Linux Security` `Security Monitoring` `SOC Fundamentals`
+
+### ⚙️ Programming & Automation
+
+`Python` `Bash` `Git` `GitHub`
+
+---
+
+## <span style="color:#A371F7;">03 — Tools</span>
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
@@ -141,43 +103,26 @@ Linux systems, network security, and cybersecurity**.
 <img src="https://img.shields.io/badge/GNS3-1A1A1A?style=flat-square&logo=gns3&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+
 </p>
 
 ---
 
-## Certifications & Training
+## <span style="color:#58A6FF;">04 — Certifications & Training</span>
 
-### Cisco CCNA
-**Cisco Certified Network Associate**
+### <span style="color:#00D9FF;">Cisco CCNA</span>
 
-Training focused on:
+Network fundamentals, switching, routing, IP connectivity, IP services,
+security fundamentals, and network troubleshooting.
 
-- Network Fundamentals
-- Network Access
-- IP Connectivity
-- IP Services
-- Security Fundamentals
-- Automation & Programmability
+### <span style="color:#A371F7;">MikroTik MTCNA</span>
 
-### MikroTik MTCNA
-**MikroTik Certified Network Associate**
-
-Training focused on:
-
-- RouterOS Fundamentals
-- IP Addressing
-- DHCP
-- Routing
-- NAT
-- Firewall
-- Network Management
+RouterOS fundamentals, IP addressing, DHCP, routing, NAT, firewall,
+and network management.
 
 ---
 
-## Practical Labs
-
-I use practical labs to strengthen my understanding of networking, Linux,
-and security concepts.
+## <span style="color:#00D9FF;">05 — Practical Labs</span>
 
 ### Cisco Networking
 
@@ -187,10 +132,8 @@ and security concepts.
 - Inter-VLAN Routing
 - Static Routing
 - OSPF
-- DHCP
-- NAT
-- ACL
-- SSH
+- DHCP & NAT
+- ACL & SSH
 - Network Troubleshooting
 
 ### MikroTik
@@ -202,23 +145,20 @@ and security concepts.
 - NAT
 - Firewall
 - Traffic Control
-- MikroTik CHR Labs
 
 ### Linux
 
-- Linux Command Line
+- Command Line
 - File Management
-- Users & Groups
-- Permissions
+- Users & Permissions
 - Processes
 - Networking Commands
 - System Administration
-- Linux Security
+- Security Fundamentals
 
 ### Wireshark
 
-- TCP Analysis
-- UDP Analysis
+- TCP / UDP Analysis
 - DNS Analysis
 - ICMP Analysis
 - ARP Analysis
@@ -229,58 +169,63 @@ and security concepts.
 
 ---
 
-## Featured Projects
+## <span style="color:#A371F7;">06 — Featured Work</span>
 
-| Project | Description |
-|---|---|
-| **CCNA Networking Labs** | Cisco Packet Tracer labs covering switching, routing, VLANs, OSPF, DHCP, NAT, ACLs and troubleshooting. |
-| **MTCNA Labs** | MikroTik RouterOS configurations covering routing, DHCP, NAT, firewall and traffic control. |
-| **Linux for Cybersecurity** | Practical Linux notes and command references for networking, administration and security. |
-| **Wireshark Analysis** | Packet-level analysis of common network protocols and traffic behaviour. |
-| **Network Troubleshooting** | Practical troubleshooting scenarios with symptoms, diagnosis and solutions. |
-| **Cybersecurity Labs** | Security-focused exercises and authorized practice environments. |
+### `CCNA-Networking-Labs`
+
+Practical Cisco Packet Tracer labs covering switching, routing,
+subnetting, VLANs, OSPF, DHCP, NAT, ACLs, and troubleshooting.
+
+### `MTCNA-Labs`
+
+MikroTik RouterOS labs covering IP configuration, routing, DHCP,
+NAT, firewall, and traffic management.
+
+### `Linux-for-Cybersecurity`
+
+Linux command references, system administration notes, networking
+commands, and security-focused practice.
+
+### `Wireshark-Analysis`
+
+Packet-level analysis of TCP, UDP, DNS, ICMP, ARP, and common
+network traffic.
+
+### `Network-Troubleshooting`
+
+Practical troubleshooting scenarios covering symptoms, diagnosis,
+verification, and solutions.
+
+### `Cybersecurity-Labs`
+
+A growing collection of security-focused exercises and authorized
+practice environments.
 
 ---
 
-## Current Learning
-
-### Linux
-Deepening my knowledge of Linux administration, networking, processes,
-permissions, and system security.
-
-### Python
-Learning Python for scripting, automation, networking, and security-related
-tasks.
-
-### Bash
-Developing shell scripting skills for Linux administration and security
-workflows.
-
-### Cybersecurity
-Building a solid foundation in network security, system security, security
-monitoring, and SOC operations.
-
----
-
-## Career Direction
+## <span style="color:#58A6FF;">07 — Current Focus</span>
 
 ```text
-Networking
+NETWORKING
     │
     ├── Cisco
     └── MikroTik
           │
           ▼
-        Linux
+        LINUX
+          │
+          ├── Administration
+          ├── Networking
+          └── Security
           │
           ▼
-      Python + Bash
+   PYTHON + BASH
           │
           ▼
-   Network Security
+   NETWORK SECURITY
           │
           ▼
-     Cybersecurity
+    CYBERSECURITY
           │
           ▼
-  Security Operations
+ SECURITY OPERATIONS

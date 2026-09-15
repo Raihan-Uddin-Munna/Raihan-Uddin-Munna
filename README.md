@@ -1,40 +1,108 @@
-![Cybersecurity and Networking Banner](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop)
+<div align="center">
 
-## Hi there, I am Raihan Uddin Munna 👋
+<img src="https://media.licdn.com/dms/image/v2/C4E16AQGOKHEFvPExaA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516349432736?e=2147483647&v=beta&t=BJwrctNfi-Ty_8enLyAkvDZKKPzV2SyFjslb2hSHpeY" width="100%" alt="Technology Background"/>
 
-### Aspiring Cybersecurity Professional | Networking & Linux Enthusiast
+# Hi, I'm Raihan Uddin Munna 👋
 
-Hey there! I am currently building a strong foundation in **Networking** and **Cybersecurity**. My focus is on mastering network architecture, routing, switching, and Linux systems as I transition into the cybersecurity field. Passionate about system administration, security analysis, and ethical hacking, I am constantly expanding my technical skill set. 🚀
+### Networking • Linux • Cybersecurity
 
-**Current Focus & Skills:**
-* **Networking:** CCNA, MTCNA (MikroTik)
-* **Operating Systems:** Linux (Bash Scripting)
-* **Programming & Automation:** Python (Upcoming)
-* **Development Background:** HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB
+**CCNA | MTCNA | Network Security | Linux**
+
+</div>
 
 ---
 
-- 🔭 I’m currently learning: **CCNA & MTCNA**
-- 🌱 Next up on my roadmap: **Cybersecurity, Linux Administration & Python**
-- 👯 I’m looking to collaborate on: **Networking & Cybersecurity Projects**
-- 💬 Ask me about: **CCNA, MikroTik, Networking Basics, Web Development**
-- 📫 How to reach me: **raihanuddin1289@gmail.com**
-- ⚡ Fun fact: **I can analyze packet traces and network setups, but I'm still trying to debug life! 😄**
+## About Me
+
+I’m building my career in **Networking and Cybersecurity**, with a strong focus on understanding how networks, systems, and security work together.
+
+I have completed **CCNA and MTCNA training** and I’m currently strengthening my practical skills through network labs, Linux practice, packet analysis, troubleshooting, and security-focused projects.
+
+My long-term direction is to move from **networking and system fundamentals into cybersecurity and security operations**, with an emphasis on practical knowledge and hands-on experience.
 
 ---
 
-### Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Raihan-Uddin-Munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/share/1E9jsASn9p/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/raihanuddinmunna/profilecard/?igsh=MWptNzNya3RuNjE2aQ==)
+## Technical Focus
+
+### 🌐 Networking
+- IPv4 & IPv6
+- Subnetting & VLSM
+- VLAN & Trunking
+- Inter-VLAN Routing
+- STP & EtherChannel
+- Static Routing
+- OSPF
+- DHCP, DNS & NAT
+- ACL
+- TCP/IP
+- Network Troubleshooting
+
+### 🔧 Cisco & MikroTik
+- Cisco IOS
+- Cisco Packet Tracer
+- MikroTik RouterOS
+- Routing & Switching
+- Network Configuration
+- Firewall & NAT
+- Network Troubleshooting
+
+### 🐧 Linux & Security
+- Linux Fundamentals
+- File System & Permissions
+- Users & Groups
+- Processes & Services
+- Linux Networking
+- Bash
+- Wireshark & Packet Analysis
+- Network Security Fundamentals
+- Cybersecurity Fundamentals
+
+### 💻 Programming & Scripting
+- Python — Learning
+- Bash Scripting — Learning
+
+### 🛠️ Tools
+`Cisco Packet Tracer` `MikroTik RouterOS` `Wireshark`  
+`Linux` `Git` `GitHub` `Python` `Bash`
 
 ---
 
-### GitHub Badges & Stats
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+## Certifications & Training
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raihan-Uddin-Munna)](https://github.com/ryo-ma/github-profile-trophy)
+- **Cisco CCNA — Training Completed**
+- **MikroTik MTCNA — Training Completed**
+- **MTCNA Vendor Examination — Completed**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan-Uddin-Munna)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihan-Uddin-Munna&show_icons=true&count_private=true)  
+## Practical Work
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Raihan-Uddin-Munna)
+I learn by building, testing, breaking, and troubleshooting real network scenarios.
+
+Current hands-on work includes:
+
+- Cisco Packet Tracer network labs
+- MikroTik RouterOS configuration
+- VLAN & Inter-VLAN routing
+- Static routing & OSPF
+- DHCP, DNS & NAT
+- ACL and network security
+- Wireshark packet analysis
+- Linux command-line practice
+- Network troubleshooting
+- Cybersecurity labs
+
+---
+
+## Career Direction
+
+```text
+Networking
+     ↓
+Linux & Systems
+     ↓
+Network Security
+     ↓
+Cybersecurity
+     ↓
+Security Operations

@@ -1,33 +1,286 @@
+<div align="center">
 
-![Passionate Web Developer | Building Beautiful, Functional, and Scalable Web Solutions.](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
+# Raihan Uddin Munna
 
-## Hi there , I am Raihan Uddin Munna
-### Passionate Web Developer | Building Beautiful, Functional, and Scalable Web Solutions.
+### Networking & Cybersecurity
 
+**CCNA • MTCNA • Linux • Network Security**
 
-Hey there! 👋 I’m a web developer who believes in the power of technology to transform ideas into meaningful digital experiences. With a strong foundation in both front-end and back-end development, I’m passionate about creating solutions that are not only functional but also visually appealing and user-friendly. I take pride in delivering high-quality, responsive websites and applications that are both technically sound and aesthetically pleasing. Always focused on continuous learning, I strive to stay up-to-date with the latest trends, tools, and frameworks in web development. Let’s build something that doesn’t just work but also resonates with users and delivers value. 🚀
+Building a strong foundation in networking, Linux, and cybersecurity through  
+hands-on labs, troubleshooting, packet analysis, and practical projects.
 
-Skills: HTML / CSS / TAILWIND CSS/ DAISYUI / REACT / JS / MongoDB
+<br>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MongoDB 
-- 👯 I’m looking to collaborate on gitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: raihanuddin1289@gmail.com 
-- ⚡ Fun fact: II can write code faster than I can come up with a good joke, but I’m always ready to add some humor to the project! 😄 
+<a href="https://github.com/Raihan-Uddin-Munna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/raihan-uddin-munna/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:raihanuddin1289@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raihan-Uddin-Munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1E9jsASn9p/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/raihanuddinmunna/profilecard/?igsh=MWptNzNya3RuNjE2aQ/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raihan-Uddin-Munna)](https://github.com/ryo-ma/github-profile-trophy)
+I'm **Raihan Uddin Munna**, focused on building a professional career in
+**Networking and Cybersecurity**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan-Uddin-Munna)](https://github.com/anuraghazra/github-readme-stats)
+I have completed **CCNA and MTCNA training** and I'm currently expanding my
+practical knowledge in **Linux, network security, scripting, and security
+operations**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raihan-Uddin-Munna&show_icons=true&count_private=true)  
+My learning is centered around hands-on work — building network topologies,
+configuring Cisco and MikroTik devices, analyzing traffic with Wireshark,
+working with Linux, troubleshooting network problems, and documenting what I
+learn along the way.
 
-  
+My long-term goal is to develop strong skills across **network infrastructure,
+Linux systems, network security, and cybersecurity**.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Raihan-Uddin-Munna)  
+---
 
+## Technical Skills
+
+### Networking
+
+- TCP/IP
+- OSI Model
+- IPv4 & IPv6
+- Subnetting
+- CIDR
+- FLSM & VLSM
+- VLAN & Trunking
+- Inter-VLAN Routing
+- STP
+- EtherChannel
+- Static Routing
+- OSPF
+- DHCP
+- DNS
+- NAT
+- ACL
+- ARP
+- ICMP
+- TCP & UDP
+- Network Troubleshooting
+
+### Cisco
+
+- Cisco IOS CLI
+- Interface Configuration
+- VLAN Configuration
+- Trunk Configuration
+- Inter-VLAN Routing
+- Static Routing
+- OSPF
+- DHCP
+- NAT
+- ACL
+- SSH
+- Troubleshooting
+- Cisco Packet Tracer
+
+### MikroTik
+
+- RouterOS
+- IP Addressing
+- DHCP
+- Routing
+- NAT
+- Firewall
+- Traffic Control
+- Router Configuration
+- MikroTik CHR
+
+### Linux
+
+- Linux File System
+- Files & Directories
+- Users & Groups
+- Permissions
+- Processes
+- Package Management
+- Networking Commands
+- Text Processing
+- Shell Environment
+- System Administration
+- Linux Security Fundamentals
+
+### Security
+
+- Network Security Fundamentals
+- Firewall Concepts
+- Access Control
+- Packet Analysis
+- Linux Security
+- Network Monitoring
+- Security Fundamentals
+- SOC Fundamentals
+
+### Programming & Scripting
+
+- Python — Learning
+- Bash — Learning
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/GNS3-1A1A1A?style=flat-square&logo=gns3&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+---
+
+## Certifications & Training
+
+### Cisco CCNA
+**Cisco Certified Network Associate**
+
+Training focused on:
+
+- Network Fundamentals
+- Network Access
+- IP Connectivity
+- IP Services
+- Security Fundamentals
+- Automation & Programmability
+
+### MikroTik MTCNA
+**MikroTik Certified Network Associate**
+
+Training focused on:
+
+- RouterOS Fundamentals
+- IP Addressing
+- DHCP
+- Routing
+- NAT
+- Firewall
+- Network Management
+
+---
+
+## Practical Labs
+
+I use practical labs to strengthen my understanding of networking, Linux,
+and security concepts.
+
+### Cisco Networking
+
+- IPv4 Addressing & Subnetting
+- VLSM Network Design
+- VLAN & Trunking
+- Inter-VLAN Routing
+- Static Routing
+- OSPF
+- DHCP
+- NAT
+- ACL
+- SSH
+- Network Troubleshooting
+
+### MikroTik
+
+- RouterOS Configuration
+- IP Addressing
+- DHCP
+- Routing
+- NAT
+- Firewall
+- Traffic Control
+- MikroTik CHR Labs
+
+### Linux
+
+- Linux Command Line
+- File Management
+- Users & Groups
+- Permissions
+- Processes
+- Networking Commands
+- System Administration
+- Linux Security
+
+### Wireshark
+
+- TCP Analysis
+- UDP Analysis
+- DNS Analysis
+- ICMP Analysis
+- ARP Analysis
+- TCP 3-Way Handshake
+- Ports & Protocols
+- Packet Flow
+- Network Troubleshooting
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| **CCNA Networking Labs** | Cisco Packet Tracer labs covering switching, routing, VLANs, OSPF, DHCP, NAT, ACLs and troubleshooting. |
+| **MTCNA Labs** | MikroTik RouterOS configurations covering routing, DHCP, NAT, firewall and traffic control. |
+| **Linux for Cybersecurity** | Practical Linux notes and command references for networking, administration and security. |
+| **Wireshark Analysis** | Packet-level analysis of common network protocols and traffic behaviour. |
+| **Network Troubleshooting** | Practical troubleshooting scenarios with symptoms, diagnosis and solutions. |
+| **Cybersecurity Labs** | Security-focused exercises and authorized practice environments. |
+
+---
+
+## Current Learning
+
+### Linux
+Deepening my knowledge of Linux administration, networking, processes,
+permissions, and system security.
+
+### Python
+Learning Python for scripting, automation, networking, and security-related
+tasks.
+
+### Bash
+Developing shell scripting skills for Linux administration and security
+workflows.
+
+### Cybersecurity
+Building a solid foundation in network security, system security, security
+monitoring, and SOC operations.
+
+---
+
+## Career Direction
+
+```text
+Networking
+    │
+    ├── Cisco
+    └── MikroTik
+          │
+          ▼
+        Linux
+          │
+          ▼
+      Python + Bash
+          │
+          ▼
+   Network Security
+          │
+          ▼
+     Cybersecurity
+          │
+          ▼
+  Security Operations

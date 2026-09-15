@@ -4,25 +4,35 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"
-    background="https://img.magnific.com/premium-photo/cyber-security-concept-login-user-identification-information-security-encryption-secure-internet-access-cybersecurity-secure-access-user-s-personal-information_184421-1580.jpg?codsemt=ais_hybrid&w=740&q=80"
-    width="100%">
-
-<br><br><br>
+<br>
 
 # Raihan Uddin Munna
 
 ### CCNA • MTCNA • Networking • Linux • Cybersecurity
 
-**Networking & Cybersecurity | Cisco & MikroTik | Linux Systems**
+<p>
+  <strong>Networking & Cybersecurity</strong>
+</p>
 
-<br><br><br>
+<p>
+  Cisco & MikroTik &nbsp;•&nbsp; Linux Systems &nbsp;•&nbsp; Network Security
+</p>
 
-</td>
-</tr>
-</table>
+<br>
+
+<img src="https://img.shields.io/badge/CCNA-Completed-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/MTCNA-Completed-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<br><br>
+
+<sub>
+Networking • Routing & Switching • Linux • Security Fundamentals
+</sub>
+
+<br><br>
 
 </div>
 
@@ -40,12 +50,25 @@ Today, I bring both backgrounds together — **application development, networki
 
 ---
 
+ 
 # Technical Focus
+<!-- =========================================================
+     TECHNICAL FOCUS
+========================================================= -->
 
-<table>
+<!-- =========================================================
+     TECHNICAL FOCUS
+========================================================= -->
+
+ 
+
+<div align="center">
+
+<table width="90%" align="center" cellspacing="8">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0D1B2A">
 
 ### 🌐 Networking
 
@@ -54,17 +77,14 @@ Today, I bring both backgrounds together — **application development, networki
 - VLAN & Trunking
 - Inter-VLAN Routing
 - STP & EtherChannel
-- Static Routing
-- OSPF
+- Static Routing & OSPF
 - DHCP, DNS & NAT
-- ACL
-- TCP/IP
+- ACL & TCP/IP
 - Network Troubleshooting
-- Network Security Fundamentals
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0D1B2A">
 
 ### 🔧 Cisco & MikroTik
 
@@ -75,9 +95,7 @@ Today, I bring both backgrounds together — **application development, networki
 - Network Configuration
 - Firewall & NAT
 - DHCP & DNS
-- Routing Protocols
-- Access Control
-- SSH
+- SSH & Access Control
 - Network Troubleshooting
 
 </td>
@@ -86,7 +104,7 @@ Today, I bring both backgrounds together — **application development, networki
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0D1B2A">
 
 ### 🐧 Linux & Systems
 
@@ -99,11 +117,10 @@ Today, I bring both backgrounds together — **application development, networki
 - System Administration
 - Service Management
 - Linux Security
-- Command-Line Operations
 
 </td>
 
-<td width="50%" valign="top">
+<td width="70%" valign="top" bgcolor="#0D1B2A">
 
 ### 🛡️ Cybersecurity
 
@@ -116,7 +133,6 @@ Today, I bring both backgrounds together — **application development, networki
 - Security Monitoring
 - SOC Fundamentals
 - Ethical Hacking Fundamentals
-- Security Troubleshooting
 
 </td>
 
@@ -124,80 +140,83 @@ Today, I bring both backgrounds together — **application development, networki
 
 <tr>
 
-<td width="50%" valign="top">
-
-### 💻 Programming & Automation
-
-- Python — Learning
-- Bash Scripting — Learning
-- JavaScript
-- Git & GitHub
-- REST APIs
-- Network Automation
-- Scripting Fundamentals
-- Automation Concepts
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 MERN Stack Background
-
-- MongoDB
-- Express.js
-- React
-- Node.js
-- JavaScript
-- HTML & CSS
-- Tailwind CSS
-- REST API Development
-- Git & GitHub
-- Web Application Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0D1B2A">
 
 ### 📊 Network Monitoring
 
 - Wireshark
 - TCP/IP Analysis
-- DNS Analysis
-- ICMP Analysis
-- Traffic Inspection
+- DNS & ICMP Analysis
 - Packet Capture
+- Traffic Inspection
 - Network Diagnostics
-- Troubleshooting
+- Network Troubleshooting
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#0D1B2A">
 
 ### 🏢 Infrastructure & Services
 
-- DHCP
-- DNS
-- NAT
+- DHCP, DNS & NAT
 - SSH
 - Network Services
 - Client-Server Communication
-- Basic Infrastructure Security
+- Infrastructure Security
 - Network Documentation
 - Configuration Management
 
 </td>
 
 </tr>
+
 </table>
 
----
+<br>
 
+<table width="90%" align="center" cellspacing="8">
+
+<tr>
+
+<td width="50%" valign="top" bgcolor="#102438">
+
+### 💻 Programming & Automation
+
+- Python & Bash
+- JavaScript
+- Git & GitHub
+- REST APIs
+- Network Automation
+- Scripting Fundamentals
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#102438">
+
+### 🌐 Development Background
+
+- HTML & CSS
+- Tailwind CSS
+- JavaScript
+- React & Next.js
+- Node.js & Express.js
+- MongoDB
+- REST API Development
+- Git & GitHub
+
+</td>
+
+</tr>
+
+</table>
+<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/MikroTik-MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Network-Security-2EA44F?style=for-the-badge"/>
+
+</div>
+ 
 # Certifications & Training
-
 <div align="center">
 
 <table>
@@ -225,10 +244,7 @@ Today, I bring both backgrounds together — **application development, networki
 
 <br>
 
-<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/MikroTik-MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Network-Security-2EA44F?style=for-the-badge"/>
+<
 
 </div>
 
@@ -343,15 +359,108 @@ Security & SOC Fundamentals
 
 # Development Background
 
-Before focusing on networking and cybersecurity, I worked with the **MERN Stack** and built web applications using modern JavaScript technologies.
+ 
 
-My previous development experience includes:
+Before focusing on Networking and Cybersecurity, I worked with the **MERN Stack** and built web applications using modern JavaScript technologies.
 
-```text
-MongoDB
-    │
-Express.js
-    │
-React
-    │
-Node.js
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+
+`HTML5` `CSS3` `Tailwind CSS`
+
+`JavaScript` `React.js` `Next.js`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Development
+
+`Node.js` `Express.js`
+
+`REST APIs` `JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database
+
+`MongoDB`
+
+`Database Design`
+
+`CRUD Operations`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Development Tools
+
+`Git` `GitHub`
+
+`VS Code` `REST API`
+
+`Web Development`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
+
+---
+
+ 
+
+<!-- =========================================================
+     PROFESSIONAL FOOTER
+========================================================= -->
+
+<div align="center">
+
+<br>
+
+### Networking • Linux • Cybersecurity
+
+**Configure. Analyze. Troubleshoot. Secure.**
+
+<br>
+
+<img src="https://img.shields.io/badge/CCNA-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/MTCNA-MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Security-2EA44F?style=flat-square"/>
+
+<br><br>
+
+<sub>
+Raihan Uddin Munna • Networking & Cybersecurity
+</sub>
+
+<br><br>
+
+</div>

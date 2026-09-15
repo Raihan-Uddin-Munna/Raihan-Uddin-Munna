@@ -1,24 +1,24 @@
-<!-- =========================
-     HERO / INTRO
-========================= -->
+<!-- =========================================================
+     HERO SECTION
+========================================================= -->
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="100%" background="https://media.licdn.com/dms/image/v2/C4E16AQGOKHEFvPExaA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516349432736?e=2147483647&v=beta&t=BJwrctNfi-Ty_8enLyAkvDZKKPzV2SyFjslb2hSHpeY">
+<td align="center"
+    background="https://img.magnific.com/premium-photo/cyber-security-concept-login-user-identification-information-security-encryption-secure-internet-access-cybersecurity-secure-access-user-s-personal-information_184421-1580.jpg?codsemt=ais_hybrid&w=740&q=80"
+    width="100%">
 
-<br><br>
+<br><br><br>
 
-# Hi, I'm Raihan Uddin Munna 👋
+# Raihan Uddin Munna
 
 ### CCNA • MTCNA • Networking • Linux • Cybersecurity
 
-<br>
+**Networking & Cybersecurity | Cisco & MikroTik | Linux Systems**
 
-**Networking & Cybersecurity | Cisco & MikroTik | Linux**
-
-<br><br>
+<br><br><br>
 
 </td>
 </tr>
@@ -30,17 +30,17 @@
 
 ## About Me
 
-I’m focused on building a strong foundation in **Networking, Linux, and Cybersecurity**.
+I work at the intersection of **Networking, Linux, and Cybersecurity**, with a strong interest in how modern networks and systems are built, managed, monitored, and secured.
 
-I have completed **CCNA and MTCNA training**, along with the MTCNA vendor examination. My current work is centered around practical networking, Linux systems, network troubleshooting, packet analysis, and security fundamentals.
+I have completed **Cisco CCNA and MikroTik MTCNA training**, including the **MTCNA vendor examination**. My current technical work focuses on network configuration, routing and switching, Linux systems, packet analysis, troubleshooting, and security fundamentals.
 
-Before moving into networking and cybersecurity, I worked with the **MERN Stack**, building web applications with modern JavaScript technologies. That background gave me practical experience with programming, databases, Git, and application development.
+Before moving into networking and cybersecurity, I worked with the **MERN Stack**, building web applications with JavaScript, React, Node.js, Express.js, and MongoDB. That experience gave me a solid foundation in programming, APIs, databases, Git, and software development.
 
-Now I’m combining that development background with **networking, systems, and security** to build a broader technical skill set.
+Today, I bring both backgrounds together — **application development, networking, systems, and security**.
 
 ---
 
-## Technical Focus
+# Technical Focus
 
 <table>
 <tr>
@@ -77,8 +77,8 @@ Now I’m combining that development background with **networking, systems, and 
 - DHCP & DNS
 - Routing Protocols
 - Access Control
+- SSH
 - Network Troubleshooting
-- Basic Network Security
 
 </td>
 
@@ -88,7 +88,7 @@ Now I’m combining that development background with **networking, systems, and 
 
 <td width="50%" valign="top">
 
-### 🐧 Linux & Security
+### 🐧 Linux & Systems
 
 - Linux Fundamentals
 - File System & Permissions
@@ -96,13 +96,33 @@ Now I’m combining that development background with **networking, systems, and 
 - Processes & Services
 - Linux Networking
 - Bash
-- Wireshark
-- Packet Analysis
-- Security Fundamentals
-- System Administration Basics
-- SOC Fundamentals
+- System Administration
+- Service Management
+- Linux Security
+- Command-Line Operations
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity
+
+- Security Fundamentals
+- Network Security
+- Access Control
+- Authentication & Authorization
+- Firewall Concepts
+- Packet Analysis
+- Security Monitoring
+- SOC Fundamentals
+- Ethical Hacking Fundamentals
+- Security Troubleshooting
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -113,44 +133,61 @@ Now I’m combining that development background with **networking, systems, and 
 - JavaScript
 - Git & GitHub
 - REST APIs
-- Automation Fundamentals
-- Network Automation — Exploring
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ Cybersecurity
-
-- Network Security
-- Security Fundamentals
-- Linux Security
-- Packet Analysis
-- Access Control
-- Authentication & Authorization
-- Security Monitoring
-- SOC Fundamentals
-- Ethical Hacking Fundamentals
+- Network Automation
+- Scripting Fundamentals
+- Automation Concepts
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Web Development Background
+### 🌐 MERN Stack Background
 
-- MERN Stack
-- React
-- JavaScript
-- Node.js
-- Express.js
 - MongoDB
+- Express.js
+- React
+- Node.js
+- JavaScript
 - HTML & CSS
 - Tailwind CSS
 - REST API Development
+- Git & GitHub
+- Web Application Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Network Monitoring
+
+- Wireshark
+- TCP/IP Analysis
+- DNS Analysis
+- ICMP Analysis
+- Traffic Inspection
+- Packet Capture
+- Network Diagnostics
+- Troubleshooting
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏢 Infrastructure & Services
+
+- DHCP
+- DNS
+- NAT
+- SSH
+- Network Services
+- Client-Server Communication
+- Basic Infrastructure Security
+- Network Documentation
+- Configuration Management
 
 </td>
 
@@ -159,50 +196,75 @@ Now I’m combining that development background with **networking, systems, and 
 
 ---
 
-## Certifications & Training
+# Certifications & Training
 
 <div align="center">
 
-| Certification / Training | Status |
-| :--- | :---: |
-| **Cisco CCNA** | ✅ Completed |
-| **MikroTik MTCNA** | ✅ Completed |
-| **MTCNA Vendor Examination** | ✅ Completed |
+<table>
+<tr>
+<th>Certification</th>
+<th>Status</th>
+</tr>
 
-</div>
+<tr>
+<td><strong>Cisco CCNA</strong></td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td><strong>MikroTik MTCNA</strong></td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td><strong>MTCNA Vendor Examination</strong></td>
+<td>✅ Completed</td>
+</tr>
+
+</table>
 
 <br>
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/MikroTik-MTCNA-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Networking-Active-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Network-Security-2EA44F?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-## Practical Work
+# Practical Work
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
-I focus on **hands-on practice** — configuring networks, testing different scenarios, analyzing traffic, and troubleshooting problems instead of relying only on theory.
+I focus on **hands-on networking and systems practice** — configuring, testing, analyzing, and troubleshooting different environments.
 
-<br>
+### 🌐 Network Labs
 
-| Area | Practical Work |
-| :--- | :--- |
-| 🌐 **Networking** | Cisco Packet Tracer labs, subnetting, VLANs, routing, OSPF |
-| 🔧 **Cisco** | IOS configuration, switching, routing, ACL, SSH |
-| 📡 **MikroTik** | RouterOS, IP addressing, DHCP, NAT, firewall & routing |
-| 🐧 **Linux** | Command line, permissions, users, processes & networking |
-| 🔍 **Packet Analysis** | Wireshark, TCP/IP, DNS, ICMP & traffic analysis |
-| 🛡️ **Security** | Network security, ACL, firewall concepts & security labs |
-| 💻 **Scripting** | Python & Bash for automation and system tasks |
+`Packet Tracer` `VLAN` `Routing` `OSPF` `ACL` `DHCP` `NAT`
+
+### 🔧 Cisco & MikroTik
+
+`Cisco IOS` `RouterOS` `Switching` `Routing` `Firewall`
+
+### 🐧 Linux
+
+`CLI` `Permissions` `Users` `Processes` `Networking` `Bash`
+
+### 🔍 Traffic Analysis
+
+`Wireshark` `TCP` `UDP` `DNS` `ICMP` `Packet Capture`
+
+### 🛡️ Security Practice
+
+`Network Security` `Access Control` `Firewall` `Security Monitoring`
+
+### 💻 Automation
+
+`Python` `Bash` `Network Automation` `System Tasks`
 
 </td>
 </tr>
@@ -210,27 +272,26 @@ I focus on **hands-on practice** — configuring networks, testing different sce
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,js,react,nodejs,express,mongodb,html,css" />
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Cisco-IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
-<img src="https://img.shields.io/badge/Packet_Tracer-Labs-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cisco-Packet_Tracer-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network_Security-Fundamentals-2EA44F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Network-Security-2EA44F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-Security-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-</p>
+</div>
 
 ---
 
-## Current Learning
+# Current Learning
 
 <table>
 <tr>
@@ -238,15 +299,17 @@ I focus on **hands-on practice** — configuring networks, testing different sce
 <td align="center" width="25%">
 
 ### 🐧
+
 **Linux**
 
-Administration & Security
+Systems & Security
 
 </td>
 
 <td align="center" width="25%">
 
 ### 🐍
+
 **Python**
 
 Networking & Automation
@@ -256,6 +319,7 @@ Networking & Automation
 <td align="center" width="25%">
 
 ### 💻
+
 **Bash**
 
 System & Network Tasks
@@ -265,9 +329,10 @@ System & Network Tasks
 <td align="center" width="25%">
 
 ### 🛡️
+
 **Cybersecurity**
 
-Security Fundamentals & SOC
+Security & SOC Fundamentals
 
 </td>
 
@@ -276,31 +341,17 @@ Security Fundamentals & SOC
 
 ---
 
-## Areas of Interest
+# Development Background
 
-<p align="center">
-
-`Network Engineering` &nbsp; `Linux` &nbsp; `Network Security`
-
-`Cybersecurity` &nbsp; `SOC` &nbsp; `Packet Analysis`
-
-`Network Automation` &nbsp; `System Administration`
-
-</p>
-
----
-
-## Development Background
-
-Before focusing on networking and cybersecurity, I worked with the **MERN Stack** and built web-based projects using modern development tools.
+Before focusing on networking and cybersecurity, I worked with the **MERN Stack** and built web applications using modern JavaScript technologies.
 
 My previous development experience includes:
 
 ```text
 MongoDB
-   │
+    │
 Express.js
-   │
+    │
 React
-   │
+    │
 Node.js
